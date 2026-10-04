@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "teachers-day-a-letter-i-owe-you",
+  "cleanUrls": true,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ]
+}
